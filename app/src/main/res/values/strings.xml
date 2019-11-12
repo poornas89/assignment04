@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment04</string>
+    <string name="first_number">First Number</string>
+    <string name="hint">Enter a Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="ans_is">Answer is:</string>
+    <string name="substract">SUBSTRACT</string>
+    <string name="add">ADD</string>
+</resources>
